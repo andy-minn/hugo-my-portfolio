@@ -1,0 +1,12 @@
+{ "accounts":
+  [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/Minn_Andy"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://facebook.com/sankoobook/"
+    }
+  ]
+}
