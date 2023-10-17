@@ -6,3 +6,6 @@ theme = "basic"
 [params]
   author = "Andy Minn"
   description = "My portfolio website"
+
+  gh_url = "https://api.github.com/users"
+  gh_user = "andy-minn"
